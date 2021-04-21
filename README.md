@@ -1,2 +1,2 @@
-# ODIM
-The Odim Project
+# ODIN
+The ODIN Project
